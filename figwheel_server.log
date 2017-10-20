@@ -1,0 +1,185 @@
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.383 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.316 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.338 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.341 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.307 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.37 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.312 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.341 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.326 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.317 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.347 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.306 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.301 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.283 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/clj102/core.cljs   line:22  column:40  ----[0m
+
+  [1mUse of undeclared Var clj102.core/aupdate-in[0m
+
+  [36m18[0m  [36m  (fn [atom][0m
+  [36m19[0m  [36m    (html [0m
+  [36m20[0m  [36m     [:div[0m
+  [36m21[0m  [36m      [:p (:val @atom)][0m
+  [33m22[0m  [1m      [:button {:on-click #(swap! atom aupdate-in [:val] inc)}]]))[0m
+  [0m  [0m  [33m                                       ^--- Use of undeclared Var clj102.core/aupdate-in[0m
+  [36m23[0m  [36m  {:val 0})[0m
+  [36m24[0m  [36m[0m
+  [36m25[0m  [36m[0m
+  [36m26[0m  [36m(defn main [][0m
+  [36m27[0m  [36m  ;; conditionally start the app based on whether the #main-app-area[0m
+
+[36m----  Compiler Warning : Please see src/clj102/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.418 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.361 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.325 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.321 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.298 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.354 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.318 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.318 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/clj102_devcards.js" in 0.263 seconds.[0m
+[36m----  Could not Analyze  src/clj102/core.cljs   line:32  column:1  ----[0m
+
+  [1mWrong number of args (0) passed to: core/deftest[0m
+
+  [36m30[0m  [36m  {:history true})[0m
+  [36m31[0m  [36m[0m
+  [33m32[0m  [1m(deftest)[0m
+  [0m  [0m  [33m^--- Wrong number of args (0) passed to: core/deftest[0m
+  [36m33[0m  [36m[0m
+  [36m34[0m  [36m(defn main [][0m
+  [36m35[0m  [36m  ;; conditionally start the app based on whether the #main-app-area[0m
+
+[36m----  Analysis Error : Please see src/clj102/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.317 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.37 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.312 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.336 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.302 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.321 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.314 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/clj102/core.cljs   line:13  column:37  ----[0m
+
+  [1mUse of undeclared Var clj102.core/start-with[0m
+
+  [36m10[0m  [36m(defcard[0m
+  [36m11[0m  [36m  ""[0m
+  [36m12[0m  [36m  (into [][0m
+  [33m13[0m  [1m        (comp (map :name) (filter #(start-with "P"))) [0m
+  [0m  [0m  [33m                                    ^--- Use of undeclared Var clj102.core/start-with[0m
+  [36m14[0m  [36m        [{:name "Paul"}[0m
+  [36m15[0m  [36m         {:name "Peter"}[0m
+  [36m16[0m  [36m         {:name "John"}]))[0m
+  [36m17[0m  [36m[0m
+  [36m18[0m  [36m()[0m
+
+[36m----  Compiler Warning : Please see src/clj102/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.385 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.317 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.311 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.307 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.327 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.317 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/clj102/core.cljs   line:22  column:4  ----[0m
+
+  [1mUse of undeclared Var clj102.core/com[0m
+
+  [36m18[0m  [36m      (+ 100)))[0m
+  [36m19[0m  [36m[0m
+  [36m20[0m  [36m(defcard[0m
+  [36m21[0m  [36m  ""[0m
+  [33m22[0m  [1m  (com[0m
+  [0m  [0m  [33m   ^--- Use of undeclared Var clj102.core/com[0m
+  [36m23[0m  [36m   #(+ 1 %)[0m
+  [36m24[0m  [36m   #(+ 10 %)[0m
+  [36m25[0m  [36m   #(+ 100 %)))[0m
+  [36m26[0m  [36m[0m
+  [36m27[0m  [36m(defcard[0m
+
+[36m----  Compiler Warning : Please see src/clj102/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.397 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.342 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.328 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
+[0mCompiling "resources/public/js/compiled/clj102_devcards.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/clj102_devcards.js" in 0.34 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/clj102/core.js
